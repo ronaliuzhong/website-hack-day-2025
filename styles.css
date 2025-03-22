@@ -27,3 +27,20 @@ body {
 .content {
     padding: 40px;
 }
+
+.intro {
+    padding: 40px;
+    background-color: lightblue;
+    color: lightcoral;
+    font-size: 30px;
+
+}
+
+.project {
+    padding: 40px;
+}
+
+.content-bio {
+    display: flex;
+    gap: 20px
+}
