@@ -24,23 +24,47 @@ body {
     color: #ffffff;
 }
 
-.content {
+.aboutme {
     padding: 40px;
+    background-color: darkolivegreen;
+    color: white;
+
+}
+
+#flowers {
+    background-image: url("C:\\Users\\yimin\\rona\\northeastern\\extra coding!\\myWebsite\\flowers.jpg");
 }
 
 .intro {
+    background-image: url("C:\\Users\\yimin\\rona\\northeastern\\extra coding!\\myWebsite\\flowers.jpg");
+    text-align: center;
     padding: 40px;
     background-color: lightblue;
-    color: lightcoral;
-    font-size: 30px;
+    color: darkolivegreen;
+    font-size: 50px;
+    font-weight: bolder;
 
 }
 
 .project {
     padding: 40px;
+    background-color:lightpink;
 }
 
-.content-bio {
+.flex {
     display: flex;
-    gap: 20px
+    align-items: center;
+    gap: 75px;
+}
+
+#rectangle {
+    width: 200px;
+    height: 100px;
+    background: white;
+}
+
+.contact {
+    padding: 40px;
+    background-color: lightgoldenrodyellow;
+    color: darkolivegreen;
 }
