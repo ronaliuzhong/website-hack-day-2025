@@ -1,3 +1,3 @@
-# Website Hack Day 2025
+# Rona's Personal Website
 
-This repository contains starter code for all hackers participating in NU Women in Technology's 2025 Website Hack Day! We're excited to get you hacking and developing your very own personal website.
+This is my journey with front end, documented through my personal website.
