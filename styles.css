@@ -32,11 +32,11 @@ body {
 }
 
 #flowers {
-    background-image: url("C:\\Users\\yimin\\rona\\northeastern\\extra coding!\\myWebsite\\flowers.jpg");
+    background-image: url("./../flowers.jpg");
 }
 
 .intro {
-    background-image: url("C:\\Users\\yimin\\rona\\northeastern\\extra coding!\\myWebsite\\flowers.jpg");
+    background-image: url("./../flowers.jpg");
     text-align: center;
     padding: 40px;
     background-color: lightblue;
